@@ -16,7 +16,7 @@ Comprehensive analysis of Pakistan's climate patterns using **44 years of rainfa
 - **Rainfall Data:** 48,150 records across 30 cities (1981-2025)
 - **Weather Data:** 54,795 daily records across 15 cities (2013-2023)
 - **Geographic Coverage:** All provinces (Balochistan, KP, Punjab, Sindh, Islamabad)
-- **Visualizations:** 9 professional charts with publication-quality output
+- **Visualizations:** 8 professional charts with publication-quality output
 - **Data Quality:** 99.3% complete, thoroughly cleaned and validated
 
 ---
