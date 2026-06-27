@@ -94,51 +94,51 @@ weather-analysis-pakistan/
 - 44-year trend with confidence interval
 - Shows increasing trend since 2010
 - Highlights dry period 2000-2005
-![App Screenshot](.\visualizations\trend_line.png)
+![App Screenshot](./visualizations/trend_line.png)
 
 ### 2. **Seasonal Rainfall Heatmap (1981-2025)**
 - Monthly rainfall intensity over decades
 - Clear monsoon stripe (July-August)
 - Shows seasonal consistency
-![App Screenshot](.\visualizations\seasonal_heatmap.png)
+![App Screenshot](./visualizations/seasonal_heatmap.png)
 
 ### 3. **Rainfall by Quarter (Distribution)**
 - Q1: Wettest (21.5 MM avg)
 - Q2: Driest (2.6 MM avg)
 - Q3: Monsoon (9.6 MM avg)
 - Q4: Moderate (7.2 MM avg)
-![App Screenshot](.\visualizations\rainfall_distribution.png)
+![App Screenshot](./visualizations/rainfall_distribution.png)
 
 ### 4. **Top & Bottom 10 Rainfall Cities**
 - Islamabad wettest (32.5 MM)
 - Kambar Shahdad Kot driest (2 MM)
 - Geographic patterns visible
-![App Screenshot](.\visualizations\top&bottomrainfallcities.png)
+![App Screenshot](./visualizations/top&bottomrainfallcities.png)
 
 ### 5. **Temperature by City (All 15)**
 - Hyderabad hottest (34.1°C)
 - Skardu coldest (10.7°C)
 - Color gradient shows diversity
-![App Screenshot](.\visualizations\averageTemByCities.png)
+![App Screenshot](./visualizations/averageTemByCities.png)
 
 ### 6. **Monthly Temperature Pattern (5 Cities)**
 - All hottest cities follow same curve
 - Peak in June (35.18°C)
 - Monsoon dip July-August
-![App Screenshot](.\visualizations\monthly_temperature_pattern.png)
+![App Screenshot](./visualizations/monthly_temperature_pattern.png)
 
 ### 7. **Temperature Distribution (KDE)**
 - 3 cities compared (hot, middle, cold)
 - Shows climate variability
 - Hyderabad consistent, Skardu variable
-![App Screenshot](.\visualizations\temperature_distribution_kde.png)
+![App Screenshot](./visualizations/temperature_distribution_kde.png)
 
 
 ### 8. **Provincial Climate Profile Heatmap**
 - 6 provinces × 2 metrics
 - Rainfall vs temperature trade-off
 - Regional diversity visible
-![App Screenshot](.\visualizations\provincial_climate_profile_heatmap.png)
+![App Screenshot](./visualizations/provincial_climate_profile_heatmap.png)
 
 ---
 
